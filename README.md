@@ -19,7 +19,7 @@ Pre-requisites: You will need an account on Merkely, Dockerhub and Github.
 | `DOCKERHUB_DEPLOY_TOKEN` | For deploying your docker image, you will need to make a [personal access token](https://docs.docker.com/docker-hub/access-tokens/) |
 
 
-For example:
+For example :
 
 ![secrets](images/secrets.png)
 
